@@ -17,7 +17,7 @@ A ferramenta é bastante intuitiva, apesar de disponibilziar pouco tempo para te
 
 ![gif - result](resultado.gif)
 
-O resultado completo você confere aqui: ![HeyGen - result](https://app.heygen.com/share/abe0784523654db78cda368d32ea4730)
+O resultado completo você confere aqui: https://app.heygen.com/share/abe0784523654db78cda368d32ea4730
 
 ## 💭 Reflexão
 O resultado do vídeo ficou bastante "caricato", mas a ferramenta tem muito potencial. Ainda mais quando se pensa que há pouco tempo o desenho de mãos pela IA era um tabu, mas hoje já temos excelentes resultados.
