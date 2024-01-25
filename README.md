@@ -2,7 +2,7 @@
 
 ## 📒 Descrição
 
-Nesse pequeno projeto, foi criado um breve vídeo de 1 min em que minha foto ganha movimento e voz e explica um pouco de deep learning.
+Nesse pequeno projeto, foi criado um breve vídeo de 1 min em que minha foto ganha movimento e voz e explica um pouco sobre deep learning.
 
 ## 🤖 Tecnologias Utilizadas
 
@@ -19,6 +19,9 @@ A ferramenta é bastante intuitiva, apesar de disponibilziar pouco tempo para te
 
 O resultado completo você confere aqui: ![HeyGen - result](https://app.heygen.com/share/abe0784523654db78cda368d32ea4730)
 
-
 ## 💭 Reflexão
 O resultado do vídeo ficou bastante "caricato", mas a ferramenta tem muito potencial. Ainda mais quando se pensa que há pouco tempo o desenho de mãos pela IA era um tabu, mas hoje já temos excelentes resultados.
+
+## Próximos passos
+
+Testar outras ferramentas como geração de música ou treinar uma rede neural para dublar uma música com outro cantor, etc. Tem muito o que ser explorado nessa área e pretendo voltar nesse projeto de tempos em tempos para testar essas ferramentas.
